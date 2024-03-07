@@ -57,7 +57,6 @@ Join me on this journey as we explore captivating domains such as Machine Learni
   <div align="center">
     
   <img src="https://github-profile-trophy.vercel.app/?username=mynkpdr&row=1"><br>
-  <img src="https://img.shields.io/github/followers/mynkpdr.svg?style=social&label=Follow&maxAge=2592000">
-  <img src="https://img.shields.io/github/watchers/mynkpdr/mynkpdr.svg?style=social&label=Watch&maxAge=2592000"><br>
+  <img src="https://img.shields.io/github/followers/mynkpdr.svg?style=social&label=Follow&maxAge=2592000"><br>
     Made with ❤️ by Mayank
   </div>
