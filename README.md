@@ -11,14 +11,14 @@
   <a href="https://leetcode.com/u/mynkpdr/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   </a>
+  <a href="https://www.kaggle.com/mayankkumarpoddar">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>
   <a href="https://chess.com/member/mynkpdr">
     <img src="https://img.shields.io/badge/Chess.com-Profile?style=for-the-badge&logo=chess&logoColor=white">
   </a>
   <a href="https://medium.com/@mynkpdr">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
-  <a href="https://twitter.com/mynkpdr">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
 <!--   <a href="#">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
