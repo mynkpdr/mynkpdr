@@ -32,8 +32,6 @@
 </div>
 
 
-###
-
 <h1 align="center">Hi there! 👋 I'm Mayank</h1>
 
 <h2>About Me</h2>
