@@ -48,7 +48,16 @@ When I'm not coding or breaking into systems (ethically, of course!), you'll fin
   </p>
 </div>
 <div align="center">
-  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=mynkpdr&theme=dark&chart=bars" />
-  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=mynkpdr&type=contributions&theme=dark" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-stats-card-generator.vercel.app/api/svg?username=mynkpdr&theme=dark&chart=bars" />
+      </td>
+      <td>
+        <img src="https://github-stats-card-generator.vercel.app/api/svg?username=mynkpdr&type=contributions&theme=dark" />
+      </td>
+    </tr>
+  </table>
   <h6>Made with ❤️ by Mayank</h6>
 </div>
+
