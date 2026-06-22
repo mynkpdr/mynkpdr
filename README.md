@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=&color=F7EE00&center=true&vCenter=true&repeat=false&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Mayank" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=32&duration=2000&pause=&color=ff4b00&center=true&vCenter=true&repeat=false&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Mayank" alt="Typing SVG" />
 </p>
 
 <h2>About Me</h2>
-<p align="left">I'm a passionate technologist with a deep fascination for Artificial Intelligence, Ethical Hacking, and Future Technologies. My journey in tech began from a very young age and it has equipped me with a diverse skill set spanning from building intelligent AI systems to securing digital infrastructures.
+<p align="left">I am a builder and problem-solver working across Artificial Intelligence, data-driven systems, and cybersecurity. My interests lie in designing intelligent applications, understanding system behavior, and exploring how modern technologies can be engineered for real-world impact.
 
-Currently, as an Undergraduate student at IIT Madras, I believe in the power of technology to solve complex real-world problems and am constantly exploring new frontiers in the tech landscape.
+My journey in technology started early and has helped me develop a broad technical foundation spanning programming, AI systems, and security-focused thinking, alongside a curiosity for how software is built, broken, and improved.
 
-When I'm not coding or breaking into systems (ethically, of course!), you'll find me either playing Table Tennis, Travelling, Gaming or diving into the latest developments in Future Technologies.</p>
+I am currently pursuing my undergraduate studies at IIT Madras, where I have engaged with core areas such as machine learning, deep learning, programming systems, and data science. My focus has been on building strong fundamentals while applying concepts through practical projects and implementations.
+
+Alongside academics, I actively explore secure systems, adversarial thinking, and emerging technology trends, with a strong interest in how scalable and reliable software systems are designed in production environments.
+
+Outside of technology, I enjoy playing table tennis, traveling, gaming, and staying updated with advancements shaping the future of computing systems.</p>
 <div>
   <!-- <h3>Languages</h3> -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -41,7 +45,9 @@ When I'm not coding or breaking into systems (ethically, of course!), you'll fin
 </div>
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+    <a href="https://github.com/mynkpdr">
+      <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+    </a>
     <a href="https://mynkpdr.github.io">
       <img src="https://img.shields.io/website-up-down-green-red/http/mynkpdr.github.io.svg">
     </a>
@@ -60,4 +66,5 @@ When I'm not coding or breaking into systems (ethically, of course!), you'll fin
   </table>
   <h6>Made with ❤️ by Mayank</h6>
 </div>
+
 
